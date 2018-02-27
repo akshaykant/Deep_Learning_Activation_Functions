@@ -11,3 +11,5 @@ The code in this repository is split into:
 
   *  a Python package `mlp`, a [NumPy](http://www.numpy.org/) based neural network package designed specifically for the course that students will implement parts of and extend during the course labs and assignments,
   *  a series of [Jupyter](http://jupyter.org/) notebooks in the `notebooks` directory containing explanatory material and coding exercises to be completed during the course labs.
+
+[Report](https://github.com/akshaykant/Deep_Learning_Activation_Functions/blob/master/report.pdf)
